@@ -7,14 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-enable" />
+        <module name="springboot-event" />
         <module name="springboot-jwt" />
         <module name="springboot-quartz" />
+        <module name="springboot-redis" />
+        <module name="springboot-schedule" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="springboot-enable" target="1.8" />
+      <module name="springboot-event" target="1.8" />
       <module name="springboot-jwt" target="1.8" />
       <module name="springboot-quartz" target="1.8" />
+      <module name="springboot-redis" target="1.5" />
+      <module name="springboot-schedule" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

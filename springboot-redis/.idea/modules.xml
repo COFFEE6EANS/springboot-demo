@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-base/redis-base.iml" filepath="$PROJECT_DIR$/redis-base/redis-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-sentinel/redis-sentinel.iml" filepath="$PROJECT_DIR$/redis-sentinel/redis-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboor-redis.iml" filepath="$PROJECT_DIR$/.idea/springboor-redis.iml" />
+    </modules>
+  </component>
+</project>

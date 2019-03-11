@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/springboot-quartz/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-enable/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-event/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-schedule/pom.xml" />
       </list>
     </option>
   </component>
