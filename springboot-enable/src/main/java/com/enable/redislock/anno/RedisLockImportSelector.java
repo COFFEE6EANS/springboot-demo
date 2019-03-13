@@ -1,7 +1,10 @@
-package com.enable.api;
+package com.enable.redislock.anno;
 
+import org.springframework.context.annotation.AdviceMode;
+import org.springframework.context.annotation.AdviceModeImportSelector;
 import org.springframework.context.annotation.ImportSelector;
 import org.springframework.core.type.AnnotationMetadata;
+import org.springframework.scheduling.annotation.EnableAsync;
 
 /**
  * @Author guojianfeng.
@@ -17,6 +20,6 @@ public class RedisLockImportSelector implements ImportSelector {
 
     @Override
     public String[] selectImports(AnnotationMetadata importingClassMetadata) {
-        return new String[]{"com.enable.api.RedisLockAop"};
+        return new String[]{"com.enable.redislock.aop.RedisLockAop"};
     }
 }

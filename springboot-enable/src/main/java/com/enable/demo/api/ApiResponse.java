@@ -1,4 +1,4 @@
-package com.enable.api;
+package com.enable.demo.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.enable.async;
+package com.enable.demo.async;
 
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;

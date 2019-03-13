@@ -1,6 +1,6 @@
-package com.enable.controller;
+package com.enable.demo.controller;
 
-import com.enable.api.ApiResponse;
+import com.enable.demo.api.ApiResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;

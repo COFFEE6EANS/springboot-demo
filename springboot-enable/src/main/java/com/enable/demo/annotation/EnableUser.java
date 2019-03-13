@@ -1,6 +1,6 @@
-package com.enable.annotation;
+package com.enable.demo.annotation;
 
-import com.enable.api.UserImportSelector;
+import com.enable.demo.api.UserImportSelector;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.ElementType;

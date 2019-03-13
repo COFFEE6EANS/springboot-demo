@@ -1,12 +1,7 @@
-package com.enable.api;
+package com.enable.demo.api;
 
-import com.enable.annotation.EnableUser;
-import org.springframework.beans.factory.support.BeanDefinitionRegistry;
-import org.springframework.context.annotation.AdviceModeImportSelector;
-import org.springframework.context.annotation.ImportBeanDefinitionRegistrar;
 import org.springframework.context.annotation.ImportSelector;
 import org.springframework.core.type.AnnotationMetadata;
-import org.springframework.scheduling.annotation.EnableAsync;
 
 /**
  * @Author guojianfeng.
@@ -22,6 +17,6 @@ public class UserImportSelector implements ImportSelector {
 
     @Override
     public String[] selectImports(AnnotationMetadata importingClassMetadata) {
-        return new String[]{"com.enable.api.User"};
+        return new String[]{"com.enable.demo.api.User"};
     }
 }
