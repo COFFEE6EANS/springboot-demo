@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-redis/redis-sentinel/sentinel.iml" filepath="$PROJECT_DIR$/springboot-redis/redis-sentinel/sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-aop/springboot-aop.iml" filepath="$PROJECT_DIR$/springboot-aop/springboot-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-demo.iml" filepath="$PROJECT_DIR$/.idea/springboot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-enable/springboot-enable.iml" filepath="$PROJECT_DIR$/springboot-enable/springboot-enable.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-event/springboot-event.iml" filepath="$PROJECT_DIR$/springboot-event/springboot-event.iml" />

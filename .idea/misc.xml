@@ -15,12 +15,8 @@
         <option value="$PROJECT_DIR$/springboot-redis/redis-sentinel/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-transaction/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-jt-cache/pom.xml" />
-      </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
         <option value="$PROJECT_DIR$/springboot-aop/pom.xml" />
-      </set>
+      </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
