@@ -6,21 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sentinel" />
         <module name="springboot-enable" />
         <module name="springboot-event" />
+        <module name="springboot-jt-cache" />
         <module name="springboot-jwt" />
         <module name="springboot-quartz" />
         <module name="springboot-redis" />
         <module name="springboot-schedule" />
+        <module name="springboot-transaction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="sentinel" target="1.8" />
       <module name="springboot-enable" target="1.8" />
       <module name="springboot-event" target="1.8" />
+      <module name="springboot-jt-cache" target="1.8" />
       <module name="springboot-jwt" target="1.8" />
       <module name="springboot-quartz" target="1.8" />
       <module name="springboot-redis" target="1.5" />
       <module name="springboot-schedule" target="1.8" />
+      <module name="springboot-transaction" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,3 +1,5 @@
+package test1;
+
 import redis.clients.jedis.Jedis;
 
 import java.util.Set;

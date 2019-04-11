@@ -1,187 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f675bc3d-c69c-4445-94dc-710c5223dfe3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_jobs_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_19_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/springboor-redis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/lib/commons-pool-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/lib/jedis-2.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/output/production/redis-base/JedisPoolUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/output/production/redis-base/TestAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/output/production/redis-base/TestMS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/output/production/redis-base/TestPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/output/production/redis-base/TestTx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/redis-base.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/JedisPoolUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestTx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/src/main/java/com/redis/sentinel/SentinelApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-sentinel/src/test/java/com/redis/sentinel/SentinelApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/springboot-schedule.iml" afterDir="false" />
+    <list default="true" id="f675bc3d-c69c-4445-94dc-710c5223dfe3" name="Default" comment="分布式redis锁">
+      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisPoolUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/AppStart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/annotation/Log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/aspect/LogAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/aspect/WebLogAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/common/utils/DateUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/common/utils/HttpClientUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/common/utils/JSONUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/common/utils/Lunar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/common/utils/WebUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/common/utils/YYBlogResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/conf/QuartzConfigration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/dto/LogDO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/dto/TaskDO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/enums/CodeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/enums/EnumCodeList$CodeListItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/enums/EnumCodeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/enums/JobStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/mapper/TaskMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/quartz/factory/JobFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/quartz/lister/ScheduleJobInitListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/quartz/task/HelloWorldJob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/quartz/utils/QuartzManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/service/TaskService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/service/impl/TaskServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/vo/TaskVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/com/web/TaskController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/config/quartz.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quartz/target/classes/mapper/TaskMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/redis-base/src/JedisPoolUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/test1/JedisPoolUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-redis/redis-base/src/TestTx.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestTx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-transaction/springboot-transaction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-transaction/target/classes/application.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/springboot-quartz/target/" />
     <ignored path="$PROJECT_DIR$/springboot-enable/target/" />
     <ignored path="$PROJECT_DIR$/springboot-jwt/target/" />
     <ignored path="$PROJECT_DIR$/springboot-event/target/" />
     <ignored path="$PROJECT_DIR$/springboot-redis/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-redis/redis-sentinel/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-schedule/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-transaction/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-jt-cache/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,102 +38,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RedisLock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/annotation/RedisLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedisLockImportSelector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockImportSelector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedisLockAop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockAop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="12" column="61" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-jwt/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JwtUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-jwt/src/main/java/com/jwt/util/JwtUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnableUser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/annotation/EnableUser.java">
+      <file leaf-file-name="JedisPoolUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/JedisPoolUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestMS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-transaction/src/main/java/com/demo/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#934#935#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-redis/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-schedule/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="51" selection-end-line="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HELP.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-jwt/HELP.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-enable/pom.xml">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            <state relative-caret-position="258">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestPool.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestTx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestTx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JedisPoolUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisPoolUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JedisTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -321,14 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/InitService.java" />
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/enum/JobStatusEnum.java" />
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/enums/CodeList.java" />
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/enums/EnumCodeList.java" />
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/enums/JobStatusEnum.java" />
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/quartz/factory/JobFactory.java" />
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/conf/ScheduleJobInitListener.java" />
-        <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/conf/JobFactory.java" />
         <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/quartz/lister/ScheduleJobInitListener.java" />
         <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/common/utils/DateUtils.java" />
         <option value="$PROJECT_DIR$/springboot-quartz/src/main/java/com/common/utils/Lunar.java" />
@@ -360,13 +195,26 @@
         <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/UserImportSelector.java" />
         <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockImportSelector.java" />
         <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/annotation/RedisLock.java" />
-        <option value="$PROJECT_DIR$/springboot-enable/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockAop.java" />
         <option value="$PROJECT_DIR$/springboot-jwt/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-jwt/src/main/java/com/jwt/constant/JwtConstant.java" />
         <option value="$PROJECT_DIR$/springboot-jwt/src/main/java/com/jwt/util/JwtUtil.java" />
         <option value="$PROJECT_DIR$/springboot-jwt/src/test/java/com/jwt/Testssss.java" />
         <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/redis-sentinel/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/RedisLockUtil.java" />
+        <option value="$PROJECT_DIR$/springboot-enable/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/test/java/com/enable/SpringbootEnableApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/test/java/com/enable/redislock/service/DemoServiceTest.java" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/anno/JedisPoolUtils.java" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/service/DemoService.java" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/aop/RedisLockAop.java" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/anno/RedisLockUtil.java" />
+        <option value="$PROJECT_DIR$/springboot-enable/src/test/java/com/enable/Demo.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/redis-base/src/test1/JedisPoolUtils.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisPoolUtils.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisTest.java" />
       </list>
     </option>
   </component>
@@ -414,17 +262,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-23" />
-    <option name="y" value="-23" />
-    <option name="width" value="1945" />
-    <option name="height" value="1062" />
+    <option name="x" value="939" />
+    <option name="width" value="987" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -435,19 +282,25 @@
             <path>
               <item name="springboot-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-jt-cache" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-schedule" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-jt-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-transaction" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,22 +313,25 @@
     <property name="SearchEverywhereHistoryKey" value="GsonA&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.gson.GsonAutoConfiguration&#10;Gson&#9;PSI&#9;JAVA://com.google.gson.Gson&#10;DataSourcePro&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.jdbc.DataSourceProperties&#10;DataSou&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-schedule" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.enable.redislock.anno" />
       <recent name="com.enable.api" />
       <recent name="" />
       <recent name="com.dto" />
       <recent name="com.quartz.factory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workfiles\github\springboot-demo" />
       <recent name="D:\github\springboot-demo\springboot-quartz\src\main\java\com\common\utils" />
       <recent name="D:\github\springboot-demo\springboot-quartz\src\main\java\com" />
       <recent name="D:\github\springboot-demo\springboot-quartz\src\main\resources\config" />
@@ -493,7 +349,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Testssss">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enable.Demo" />
+      <module name="springboot-enable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="JwtUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jwt.util.JwtUtil" />
       <module name="springboot-jwt" />
@@ -519,6 +386,52 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="DemoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-enable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enable.redislock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.enable.redislock.service" />
+      <option name="MAIN_CLASS_NAME" value="com.enable.redislock.service.DemoServiceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DemoServiceTest.doSomething" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-enable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enable.redislock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.enable.redislock.service" />
+      <option name="MAIN_CLASS_NAME" value="com.enable.redislock.service.DemoServiceTest" />
+      <option name="METHOD_NAME" value="doSomething" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -535,13 +448,29 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AppStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="AppStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-quartz" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.AppStart" />
+    </configuration>
+    <configuration name="SentinelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sentinel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.redis.sentinel.SentinelApplication" />
     </configuration>
     <configuration name="SpringbootEnableApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-enable" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.enable.SpringbootEnableApplication" />
+    </configuration>
+    <configuration name="SpringbootEventApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-event" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.event.SpringbootEventApplication" />
+    </configuration>
+    <configuration name="SpringbootJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jwt.SpringbootJwtApplication" />
+    </configuration>
+    <configuration name="SpringbootScheduleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-schedule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.schedule.SpringbootScheduleApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -567,15 +496,24 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.SpringbootEnableApplication" />
+      <item itemvalue="Spring Boot.SpringbootJwtApplication" />
       <item itemvalue="Spring Boot.AppStart" />
+      <item itemvalue="Spring Boot.SentinelApplication" />
+      <item itemvalue="Spring Boot.SpringbootEventApplication" />
+      <item itemvalue="Spring Boot.SpringbootScheduleApplication" />
       <item itemvalue="Application.JwtUtil" />
       <item itemvalue="Application.Testssss" />
+      <item itemvalue="JUnit.DemoServiceTest.doSomething" />
+      <item itemvalue="JUnit.DemoServiceTest" />
+      <item itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.DemoServiceTest.doSomething" />
+        <item itemvalue="JUnit.DemoServiceTest" />
         <item itemvalue="Application.Testssss" />
         <item itemvalue="Application.JwtUtil" />
-        <item itemvalue="Spring Boot.AppStart" />
       </list>
     </recent_temporary>
   </component>
@@ -592,21 +530,80 @@
       <workItem from="1551765265524" duration="15474000" />
       <workItem from="1552010524777" duration="14145000" />
       <workItem from="1552293479933" duration="294000" />
+      <workItem from="1554346637898" duration="898000" />
+      <workItem from="1554356777112" duration="810000" />
+      <workItem from="1554801738526" duration="1282000" />
+      <workItem from="1554886760949" duration="1192000" />
+      <workItem from="1554958246033" duration="650000" />
     </task>
+    <task id="LOCAL-00001" summary="事务传播特性">
+      <created>1552461015726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552461015727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="分布式redis锁">
+      <created>1552473519167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552473519167</updated>
+    </task>
+    <task id="LOCAL-00003" summary="分布式redis锁">
+      <created>1552526015086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552526015086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 16h 53m 46s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 16h 56m 01s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 17h 50m 41s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 17h 51m 39s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 17h 52m 06s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 17h 54m 37s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 17h 55m 06s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest - 2019.03.13 at 17h 56m 11s.xml">
+      <configuration name="DemoServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 18h 00m 31s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoServiceTest_doSomething - 2019.03.13 at 18h 03m 48s.xml">
+      <configuration name="DemoServiceTest.doSomething" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29913000" />
+    <option name="totallyTimeSpent" value="46090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.2591362" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
@@ -619,24 +616,26 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41043723" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20797342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3156146" />
       <window_info anchor="bottom" id="Problems" order="7" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="BPMNPalette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32863188" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32863188" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,9 +644,30 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分布式redis锁" />
+    <option name="LAST_COMMIT_MESSAGE" value="分布式redis锁" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/aop/RedisLockAop.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestAPI.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -670,312 +690,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot-quartz/src/main/java/com/web/TaskController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-quartz/src/main/java/com/common/utils/YYBlogResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/ApiResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar!/com/google/gson/Gson.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/org/springframework/boot/autoconfigure/gson/GsonAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-          <folding>
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar!/org/springframework/scheduling/annotation/EnableAsync.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar!/org/springframework/scheduling/annotation/AsyncConfigurationSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar!/org/springframework/context/annotation/ImportSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" selection-start-line="8" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar!/org/springframework/context/annotation/AdviceModeImportSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar!/org/springframework/context/annotation/AdviceMode.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/AdviceMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4719">
-          <caret line="638" column="18" selection-start-line="638" selection-start-column="18" selection-end-line="638" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/async/AsyncClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar!/org/springframework/beans/factory/ListableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/scheduling/annotation/EnableAsync.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="161" column="23" lean-forward="true" selection-start-line="161" selection-start-column="23" selection-end-line="161" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/scheduling/annotation/AsyncConfigurationSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/DeferredImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="50" column="69" lean-forward="true" selection-start-line="50" selection-start-column="69" selection-end-line="50" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/ImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="51" column="36" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/AdviceModeImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="35" column="95" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/SpringbootEnableApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/Import.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="56" column="68" lean-forward="true" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/AspectJAutoProxyRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/EnableAspectJAutoProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="111" column="19" lean-forward="true" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-aop/4.3.10.RELEASE/spring-aop-4.3.10.RELEASE.jar!/org/springframework/aop/config/AopConfigUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/AspectJAutoProxyRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/UserImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/annotation/RedisLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockAop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/UserImportSelector.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockImportSelector.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/annotation/RedisLock.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/api/RedisLockAop.java" />
     <entry file="file://$PROJECT_DIR$/springboot-jwt/HELP.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1017,22 +735,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/annotation/EnableUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/annotation/EnableUser.java" />
     <entry file="file://$PROJECT_DIR$/springboot-schedule/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -1047,9 +753,292 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-transaction/db/user.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-transaction/src/test/java/com/demo/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-sentinel/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-sentinel/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-transaction/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/anno/EnableDistributedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-transaction/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-transaction/src/main/java/com/demo/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/anno/RedisLockImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-transaction/src/main/java/com/demo/TransDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-schedule/src/main/java/com/schedule/quartz/entity/ConfigRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/test/java/com/enable/SpringbootEnableApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/test/java/com/enable/redislock/service/DemoServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/ProceedingJoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/SpringbootEnableApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/anno/RedisLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/rest/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/service/DemoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/anno/JedisPoolUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/aop/RedisLockAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/test/java/com/enable/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-enable/src/main/java/com/enable/redislock/anno/RedisLockUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-sentinel/src/main/java/com/redis/sentinel/SentinelApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/JedisPoolUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisPoolUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test2/JedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestTx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-redis/redis-base/src/test1/TestMS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-transaction/src/main/java/com/demo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#934#935#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -1073,6 +1062,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springboot-redis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -1087,6 +1089,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

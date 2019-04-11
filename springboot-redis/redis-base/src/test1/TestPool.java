@@ -1,6 +1,7 @@
+package test1;
+
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
-import redis.clients.jedis.Transaction;
 
 /**
  * @Author guojianfeng.
