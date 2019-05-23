@@ -8,7 +8,7 @@ import java.lang.annotation.*;
  * @Date Created in  2019/3/8
  * @Description：
  */
-@Target({ElementType.PARAMETER, ElementType.METHOD})
+@Target({ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 public @interface RedisLock {

@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="redis-sentinel" />
+        <module name="springboot-jt-redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="redis-sentinel" target="1.8" />
+      <module name="springboot-jt-redis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -33,20 +33,26 @@ public class RedisLockAop {
     public void point() {
 
     }
-//    @Before("point()")
-    public void before(JoinPoint joinPoint) throws Throwable{
+
+    //    @Before("point()")
+    public void before(JoinPoint joinPoint) throws Throwable {
         //获取锁
         System.out.println("before()  before doing，want to get lock");
     }
 
+    /**
+     * asdasd
+     *
+     * @param joinPoint
+     */
     @Around("point()")
-    public void arround(ProceedingJoinPoint joinPoint){
+    public void arround(ProceedingJoinPoint joinPoint) {
         //获取锁
         System.out.println("arround()  before doing，want to get lock");
         JedisPool jedisPoolInstance = JedisPoolUtils.getJedisPoolInstance();
         Jedis resource = jedisPoolInstance.getResource();
         String lock = redisLockUtil.tryGetDistributedLock(resource, "user", 1, 20);
-        if (StringUtils.isEmpty(lock)){
+        if (StringUtils.isEmpty(lock)) {
             JedisPoolUtils.release(resource);
             return;
         }

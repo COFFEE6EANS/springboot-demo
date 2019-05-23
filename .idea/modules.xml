@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-base-api/demo-base-api.iml" filepath="$PROJECT_DIR$/demo-base-api/demo-base-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-redis/redis-sentinel/sentinel.iml" filepath="$PROJECT_DIR$/springboot-redis/redis-sentinel/sentinel.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-aop/springboot-aop.iml" filepath="$PROJECT_DIR$/springboot-aop/springboot-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-demo.iml" filepath="$PROJECT_DIR$/.idea/springboot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-enable/springboot-enable.iml" filepath="$PROJECT_DIR$/springboot-enable/springboot-enable.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-event/springboot-event.iml" filepath="$PROJECT_DIR$/springboot-event/springboot-event.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jt-cache/springboot-jt-cache.iml" filepath="$PROJECT_DIR$/springboot-jt-cache/springboot-jt-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-jt-redis/springboot-jt-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-jt-redis/springboot-jt-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jwt/springboot-jwt.iml" filepath="$PROJECT_DIR$/springboot-jwt/springboot-jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" filepath="$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-schedule/springboot-schedule.iml" filepath="$PROJECT_DIR$/springboot-schedule/springboot-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-tkmybatis/springboot-tkmybatis.iml" filepath="$PROJECT_DIR$/springboot-tkmybatis/springboot-tkmybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-transaction/springboot-transaction.iml" filepath="$PROJECT_DIR$/springboot-transaction/springboot-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-validation/springboot-validation.iml" filepath="$PROJECT_DIR$/springboot-validation/springboot-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-webflux/springboot-webflux.iml" filepath="$PROJECT_DIR$/springboot-webflux/springboot-webflux.iml" />
     </modules>
   </component>
 </project>

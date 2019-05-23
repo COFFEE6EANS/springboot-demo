@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/redis-base/redis-base.iml" filepath="$PROJECT_DIR$/redis-base/redis-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis-sentinel/redis-sentinel.iml" filepath="$PROJECT_DIR$/redis-sentinel/redis-sentinel.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboor-redis.iml" filepath="$PROJECT_DIR$/.idea/springboor-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jt-redis/springboot-jt-redis.iml" filepath="$PROJECT_DIR$/springboot-jt-redis/springboot-jt-redis.iml" />
     </modules>
   </component>
 </project>
