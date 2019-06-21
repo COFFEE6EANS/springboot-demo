@@ -513,12 +513,12 @@
       <item itemvalue="Spring Boot.SpringbootEventApplication" />
       <item itemvalue="Spring Boot.SpringbootScheduleApplication" />
       <item itemvalue="Spring Boot.SpringbootRabbitmqApplication" />
+      <item itemvalue="Spring Boot.SpringbootTkmybatisApplication" />
       <item itemvalue="Application.SpringbootJtRedisApplication" />
       <item itemvalue="JUnit.DemoServiceTest.doSomething" />
       <item itemvalue="JUnit.DemoServiceTest" />
       <item itemvalue="Spring Boot.SpringbootJtCacheApplication" />
       <item itemvalue="Spring Boot.SpringbootValidationApplication" />
-      <item itemvalue="Spring Boot.SpringbootTkmybatisApplication" />
     </list>
     <recent_temporary>
       <list>
