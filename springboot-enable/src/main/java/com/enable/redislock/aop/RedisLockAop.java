@@ -51,7 +51,7 @@ public class RedisLockAop {
         System.out.println("arround()  before doing，want to get lock");
         JedisPool jedisPoolInstance = JedisPoolUtils.getJedisPoolInstance();
         Jedis resource = jedisPoolInstance.getResource();
-        String lock = redisLockUtil.tryGetDistributedLock(resource, "user", 1, 20);
+        String lock = redisLockUtil.tryGetDistributedLock(resource, "user", 1, 5);
         if (StringUtils.isEmpty(lock)) {
             JedisPoolUtils.release(resource);
             return;

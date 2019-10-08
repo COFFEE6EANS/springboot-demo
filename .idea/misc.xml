@@ -18,10 +18,11 @@
         <option value="$PROJECT_DIR$/springboot-aop/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-redis/springboot-jt-redis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-webflux/pom.xml" />
         <option value="$PROJECT_DIR$/demo-base-api/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-validation/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-tkmybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-property/pom.xml" />
       </list>
     </option>
   </component>

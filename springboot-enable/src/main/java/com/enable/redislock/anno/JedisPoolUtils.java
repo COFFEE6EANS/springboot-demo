@@ -8,6 +8,7 @@ public class JedisPoolUtils {
 
     private static final String ip = "127.0.0.1";
     private static final int port = 6379;
+    private static final String passwrod = "redis2019";
     private static JedisPool jedisPool = null;
 
     private JedisPoolUtils(){};
@@ -20,7 +21,7 @@ public class JedisPoolUtils {
                 config.setMaxIdle(32);
                 config.setMaxWaitMillis(100*1000);
                 config.setTestOnBorrow(true);
-                jedisPool = new JedisPool(config,ip,port);
+                jedisPool = new JedisPool(config,ip,port,2000,passwrod);
             }
         }
         return jedisPool;

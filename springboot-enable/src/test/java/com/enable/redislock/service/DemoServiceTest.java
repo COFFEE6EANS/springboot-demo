@@ -20,10 +20,10 @@ public class DemoServiceTest {
 
     @Test
     public void doSomething(){
-//        for (int i=0;i<1;i++){
-            new Thread(()->{
+        for (int i=0;i<1;i++){
+//            new Thread(()->{
                 demoService.doSomething();
-            }).start();
-//        }
+//            }).start();
+        }
     }
 }

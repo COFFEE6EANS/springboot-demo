@@ -11,14 +11,15 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-jt-cache/springboot-jt-cache.iml" filepath="$PROJECT_DIR$/springboot-jt-cache/springboot-jt-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-jt-redis/springboot-jt-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-jt-redis/springboot-jt-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jwt/springboot-jwt.iml" filepath="$PROJECT_DIR$/springboot-jwt/springboot-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-property/springboot-property.iml" filepath="$PROJECT_DIR$/springboot-property/springboot-property.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" filepath="$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-schedule/springboot-schedule.iml" filepath="$PROJECT_DIR$/springboot-schedule/springboot-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-tkmybatis/springboot-tkmybatis.iml" filepath="$PROJECT_DIR$/springboot-tkmybatis/springboot-tkmybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-transaction/springboot-transaction.iml" filepath="$PROJECT_DIR$/springboot-transaction/springboot-transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-validation/springboot-validation.iml" filepath="$PROJECT_DIR$/springboot-validation/springboot-validation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-webflux/springboot-webflux.iml" filepath="$PROJECT_DIR$/springboot-webflux/springboot-webflux.iml" />
     </modules>
   </component>
 </project>

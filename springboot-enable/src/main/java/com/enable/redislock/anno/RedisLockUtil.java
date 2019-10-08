@@ -27,13 +27,13 @@ public class RedisLockUtil {
      * @return
      */
     public String tryGetDistributedLock(Jedis jedis, String lockValuePrefix, int connectTime, int expireTime) {
-//        log.info("线程{}  。。。",Thread.currentThread().getName());
+        log.info("thread [{}]  try get lock ...", Thread.currentThread().getName());
         String redisValue = lockValuePrefix + ":" + UUID.randomUUID().toString();
         //秒->毫秒
         connectTime = connectTime * 1000;
         long currentTime = System.currentTimeMillis();
         while (System.currentTimeMillis() < currentTime + connectTime) {
-            if(jedis.setnx(REDISKEY, redisValue)==1){
+            if (jedis.setnx(REDISKEY, redisValue) == 1) {
                 log.info("线程{} 获取到锁 成功", Thread.currentThread().getName());
                 jedis.expire(REDISKEY, expireTime);
                 return redisValue;
@@ -53,8 +53,9 @@ public class RedisLockUtil {
             jedis.del(REDISKEY);
             log.info("线程{} 释放锁 成功", Thread.currentThread().getName());
             return true;
+        } else {
+            log.info("线程{} 释放锁 失败，可能锁已经自动释放。。。", Thread.currentThread().getName());
         }
-        log.info("线程{} 释放锁 失败", Thread.currentThread().getName());
         return false;
     }
 

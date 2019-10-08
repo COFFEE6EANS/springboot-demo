@@ -6,22 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-base-api" />
-        <module name="sentinel" />
-        <module name="springboot-aop" />
-        <module name="springboot-enable" />
-        <module name="springboot-event" />
-        <module name="springboot-jt-cache" />
-        <module name="springboot-jt-redis" />
-        <module name="springboot-jwt" />
-        <module name="springboot-quartz" />
-        <module name="springboot-rabbitmq" />
-        <module name="springboot-redis" />
-        <module name="springboot-schedule" />
         <module name="springboot-tkmybatis" />
-        <module name="springboot-transaction" />
         <module name="springboot-validation" />
-        <module name="springboot-webflux" />
+        <module name="springboot-quartz" />
+        <module name="springboot-event" />
+        <module name="springboot-jt-redis" />
+        <module name="springboot-aop" />
+        <module name="springboot-rabbitmq" />
+        <module name="demo-base-api" />
+        <module name="springboot-jt-cache" />
+        <module name="springboot-schedule" />
+        <module name="sentinel" />
+        <module name="springboot-enable" />
+        <module name="springboot-jwt" />
+        <module name="springboot-property" />
+        <module name="springboot-redis" />
+        <module name="springboot-transaction" />
+        <module name="springboot-shiro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -33,14 +34,35 @@
       <module name="springboot-jt-cache" target="1.8" />
       <module name="springboot-jt-redis" target="1.8" />
       <module name="springboot-jwt" target="1.8" />
+      <module name="springboot-property" target="1.8" />
       <module name="springboot-quartz" target="1.8" />
       <module name="springboot-rabbitmq" target="1.8" />
       <module name="springboot-redis" target="1.5" />
       <module name="springboot-schedule" target="1.8" />
+      <module name="springboot-shiro" target="1.8" />
       <module name="springboot-tkmybatis" target="1.8" />
       <module name="springboot-transaction" target="1.8" />
       <module name="springboot-validation" target="1.8" />
       <module name="springboot-webflux" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-base-api" options="-parameters" />
+      <module name="sentinel" options="-parameters" />
+      <module name="springboot-aop" options="-parameters" />
+      <module name="springboot-enable" options="-parameters" />
+      <module name="springboot-jt-cache" options="-parameters" />
+      <module name="springboot-jt-redis" options="-parameters" />
+      <module name="springboot-jwt" options="-parameters" />
+      <module name="springboot-property" options="-parameters" />
+      <module name="springboot-rabbitmq" options="-parameters" />
+      <module name="springboot-schedule" options="-parameters" />
+      <module name="springboot-shiro" options="-parameters" />
+      <module name="springboot-tkmybatis" options="-parameters" />
+      <module name="springboot-transaction" options="-parameters" />
+      <module name="springboot-validation" options="-parameters" />
+      <module name="springboot-webflux" options="" />
+    </option>
   </component>
 </project>
