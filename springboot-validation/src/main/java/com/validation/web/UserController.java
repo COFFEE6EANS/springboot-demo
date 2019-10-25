@@ -8,12 +8,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.validation.BeanPropertyBindingResult;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.beanvalidation.BeanValidationPostProcessor;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
+import java.time.LocalDateTime;
 
 /**
  * @Author guojianfeng.
@@ -36,6 +34,18 @@ public class UserController {
     }
     @PostMapping("/test")
     public ObjectRestResponse test( @RequestBody User user){
+        return new ObjectRestResponse().code(200).msg("success").result(user);
+    }
+    @GetMapping("/get")
+    public ObjectRestResponse test(){
+        User user = new User();
+        user.setName("tom");
+        user.setNow(LocalDateTime.now());
+        user.setBirth(LocalDateTime.now());
+        return new ObjectRestResponse().code(200).msg("success").result(user);
+    }
+    @GetMapping("/get1")
+    public ObjectRestResponse test1(User user){
         return new ObjectRestResponse().code(200).msg("success").result(user);
     }
 }
