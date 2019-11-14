@@ -4,6 +4,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;
 
+import javax.validation.constraints.NotNull;
 import java.time.LocalDateTime;
 
 /**
@@ -13,6 +14,7 @@ import java.time.LocalDateTime;
  */
 @Data
 public class User {
+    @NotNull
     private String name;
     private Integer age;
     private Pet pet;

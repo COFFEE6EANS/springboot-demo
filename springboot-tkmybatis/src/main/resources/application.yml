@@ -28,4 +28,13 @@ logging:
   level:
    com.tkmybatis.mapper: debug
 
-
+# Generator
+generator.targetProject=src/main/java
+#mapper的父类
+generator.mappers=tk.mybatis.mapper.common.Mapper
+#pojo所在报名
+generator.javaModel-targetPackage=com.xxx.demo.pojo
+#mapper.xml位于resource文件夹下的哪个目录中
+generator.sqlMap-targetPackage=mapper
+#mapper包名
+generator.javaClient-targetPackage=com.xxx.demo.mapper

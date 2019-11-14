@@ -17,9 +17,7 @@ public class TestAPI {
         jedis.set("count","100");
         jedis.decr("count");
         Set<String> keys = jedis.keys("*");
-        keys.forEach(key->{
-            System.out.println(key);
-        });
+        keys.forEach(key-> System.out.println(key));
         System.out.println(jedis.get("count"));
     }
 }

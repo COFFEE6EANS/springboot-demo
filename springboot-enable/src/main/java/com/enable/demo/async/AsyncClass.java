@@ -11,9 +11,8 @@ import java.util.concurrent.TimeUnit;
  * @Description：
  */
 @Component
-public class AsyncClass implements Runnable{
+public class AsyncClass {
 
-    @Override
     @Async
     public void run() {
         for (int i=0;i<10;i++){
