@@ -81,7 +81,6 @@ public class JwtUtil {
     public static void main(String[] args) {
         Map map = new HashMap();
         map.put("gjf","xnd");
-        map.put("company","yss");
         String s = JwtUtil.genericToken(map);
         System.out.println(s);
         System.out.println("----------------------");
